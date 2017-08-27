@@ -1,1 +1,3 @@
 # AutoHome
+
+Prototype home automation
